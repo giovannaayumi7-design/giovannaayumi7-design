@@ -25,7 +25,3 @@ Construir uma base sólida em desenvolvimento de sistemas, aprender com projetos
 ## 🔗 Onde me encontrar
 
 [LinkedIn — Giovanna Ayumi Sakata Matuo](https://www.linkedin.com/in/giovanna-ayumi-sakata-matuo-774451315/)
-
----
-
-*Este perfil registra meu processo de aprendizado. Os projetos apresentados são exercícios e atividades acadêmicas.*
